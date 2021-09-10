@@ -1,4 +1,4 @@
-# Card-Creator-back
+# CardCreator-back
 
 * Run "npm install" inside cardCreatorServer folder.
 * Create and run mongodb on port 27017
